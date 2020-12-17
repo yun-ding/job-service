@@ -1,0 +1,12 @@
+* {
+  font-family: Andale Mono, monospace;
+}
+
+.job-container {
+  display: flex;
+  background-color: #ffebeb;  
+}
+
+.FilterBox {
+  background-color: #ffffff;  
+}

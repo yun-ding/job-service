@@ -1,0 +1,51 @@
+* {
+  font-family: Andale Mono, monospace;
+}
+
+.movies-container {
+  display: flex;
+  flex-flow: column wrap;
+  margin-top: 10px;
+}
+
+.bestgenres-container .jumbotron {
+  background-color: #ffd7d7;  
+}
+
+.movies-container .movie, .movies-container .movieResults {
+  display: flex;
+  flex-flow: row nowrap;
+  align-items: center;
+  height: 40px;
+  padding: 0 10px;
+  background-color: #ffffff;
+}
+
+.movie .header {
+  flex: 1 0 25%;
+}
+
+.movieResults .title, .movieResults .genre, .movieResults .votes, .movieResults .year, .movieResults .rating {
+  flex: 1 0 25%;
+  background-color: #ffebeb;
+}
+
+.bestgenres-container .jumbotron .title{
+  font-size: 40 px;
+  font-weight:bold;
+}
+
+.years-container .input-container{
+  font-size: 20 px;
+  font-weight:bold;
+}
+
+.movies-container .movie .result-header{
+  font-size: 20 px;
+  font-weight: bold;
+}
+
+.movies-container {
+  font-size: 20 px;
+  font-weight: bold;
+}

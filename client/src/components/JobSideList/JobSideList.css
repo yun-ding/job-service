@@ -1,0 +1,29 @@
+.job-list {
+  /* border-style: double; */
+  border-right: 1px solid rgb(224, 213, 213);
+  width: 250px;
+  height: 80vh;
+  overflow-y: auto;
+}
+
+.job-content {
+  margin: 10px;
+  list-style-type: none;
+  height: 80px;
+}
+
+.detail-job-container {
+  /* border: 1px solid black; */
+  /* border-bottom: 1px solid gray; */
+  text-align: center;
+  /* vertical-align: middle; */
+  height: 100px;
+}
+
+.detail-job-container-active {
+  border-left: 2px solid lightseagreen;
+  /* vertical-align: middle; */
+  text-align: center;
+  /* box-shadow: 4px 4px 10px rgba(20%, 20%, 20%, 0.1); */
+  height: 100px;
+}

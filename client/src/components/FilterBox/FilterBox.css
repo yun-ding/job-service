@@ -1,0 +1,65 @@
+.job-search-container {
+  margin: 20px;
+  text-align: center;
+}
+
+.job-title-input-box {
+  width: 600px;
+  border-radius: 5px;
+  font-size: 20px;
+}
+
+.filter-box-container {
+  text-align: center;
+  display: flex;
+  margin-top: 20px;
+  align-items: center;
+  color: #ffffff;
+  background-color: rgb(201, 67, 67);
+  width: 100%;
+}
+
+.input {
+  color: #ffffff;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+}
+
+.location-employer-skill-input {
+  display: flex;
+}
+
+.location-input {
+  margin: 10px;
+}
+
+.job-input {
+  padding: 10px;
+  border-left: 1px solid gray;
+  border-right: 1px solid gray;
+}
+
+.job-type-input {
+  display: flex;
+}
+
+.employer-input {
+  margin: 10px;
+}
+
+.skill-input {
+  margin: 10px;
+}
+
+.submit-button {
+  margin-left: 20px;
+  margin-right: 20px;
+  padding: 10px;
+  border: 1px solid black;
+  height: 100%;
+  cursor: pointer;
+}
+
+.checkbox {
+}

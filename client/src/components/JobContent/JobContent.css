@@ -1,0 +1,11 @@
+.job-detail-container {
+  margin: 100px;
+}
+
+.job-detail-container .content{
+  font-size: 20px;
+}
+
+.content {
+  margin-left: 50px;
+}
